@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinav-005
+- 👋 Hi, I’m ABHINAV
 - 👀 I’m interested in ... web development and fullstack development
 - 🌱 I’m currently learning ..... html,css,javascript,python,c++
 - 💞️ I’m looking to collaborate on ...
